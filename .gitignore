@@ -1,0 +1,7 @@
+# Project exclude paths
+/venv/
+config.py
+tmp_del/*
+bot_users.db
+bd_test.py
+chagpt.py
